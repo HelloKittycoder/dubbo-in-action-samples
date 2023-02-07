@@ -11,6 +11,7 @@
 
   <modules>
     <module>dubbo-samples-echo</module>
+    <module>dubbo-samples-extension-loader</module>
   </modules>
 
   <properties>
